@@ -1,0 +1,31 @@
+id,city,city_english,day,quality_level,quality_level_english,aqi,aqi_rank,pm2_5,pm10,so2,no2,co,o3,created_at
+"1,005,980",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/7/22 8:00,优,excellent,28,16,10,19,12,9,0.65,81,4/8/22 9:33
+"1,006,308",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/8/22 0:00,优,excellent,25,2,11,20,12,10,0.53,69,4/9/22 3:30
+"1,006,652",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/9/22 0:00,优,excellent,27,4,10,17,13,7,0.43,74,4/10/22 3:30
+"1,006,997",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/10/22 0:00,优,excellent,27,7,11,19,13,9,0.5,81,4/11/22 3:30
+"1,007,340",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/11/22 0:00,优,excellent,26,8,9,24,13,10,0.55,68,4/12/22 3:30
+"1,007,711",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/12/22 0:00,优,excellent,29,37,11,27,13,7,0.59,64,4/13/22 3:31
+"1,008,116",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/13/22 0:00,优,excellent,35,100,14,33,13,7,0.62,74,4/14/22 3:31
+"1,008,412",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/14/22 0:00,优,excellent,29,54,11,21,13,7,0.63,83,4/15/22 3:31
+"1,008,723",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/15/22 0:00,优,excellent,21,23,8,10,13,8,0.69,67,4/16/22 3:31
+"1,009,068",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/16/22 0:00,优,excellent,21,26,8,9,13,7,0.72,66,4/17/22 3:30
+"1,009,433",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/17/22 0:00,优,excellent,26,49,9,14,13,7,0.64,79,4/18/22 3:30
+"1,009,767",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/18/22 0:00,优,excellent,25,41,10,19,11,7,0.79,75,4/19/22 3:30
+"1,010,098",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/19/22 0:00,优,excellent,26,30,10,17,12,7,0.73,80,4/20/22 3:31
+"1,010,444",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/20/22 0:00,优,excellent,34,34,11,24,12,7,0.66,101,4/21/22 3:31
+"1,010,768",阿坝藏族羌族自治州,Aba Tibetan and Qiang Autonomous Prefecture,4/21/22 0:00,优,excellent,31,16,10,22,12,8,0.62,82,4/22/22 3:30
+"1,006,252",阿克苏地区,Aksu Region,4/7/22 8:00,良,good,79,288,31,107,6,28,1.12,70,4/8/22 9:33,,heavily polluted,-2
+"1,006,488",阿克苏地区,Aksu Region,4/8/22 0:00,良,good,69,182,24,87,6,26,0.94,68,4/9/22 3:30,,heavy pollution,-2
+"1,006,878",阿克苏地区,Aksu Region,4/9/22 0:00,良,good,70,230,24,89,5,38,0.89,53,4/10/22 3:30
+"1,007,298",阿克苏地区,Aksu Region,4/10/22 0:00,良,good,93,308,33,135,5,19,0.73,86,4/11/22 3:30
+"1,007,673",阿克苏地区,Aksu Region,4/11/22 0:00,重度污染,heavy pollution,299,341,227,803,5,15,0.76,68,4/12/22 3:30
+"1,008,013",阿克苏地区,Aksu Region,4/12/22 0:00,严重污染,heavily polluted,313,339,134,509,5,14,0.76,73,4/13/22 3:31
+"1,008,355",阿克苏地区,Aksu Region,4/13/22 0:00,重度污染,heavy pollution,224,339,102,355,5,31,0.92,49,4/14/22 3:31
+"1,008,697",阿克苏地区,Aksu Region,4/14/22 0:00,中度污染,Moderately polluted,160,339,79,255,4,12,0.62,80,4/15/22 3:31
+"1,009,025",阿克苏地区,Aksu Region,4/15/22 0:00,良,good,82,325,39,113,5,11,0.6,90,4/16/22 3:31
+"1,009,383",阿克苏地区,Aksu Region,4/16/22 0:00,严重污染,heavily polluted,359,341,402,"1,472",4,19,0.61,70,4/17/22 3:30
+"1,009,724",阿克苏地区,Aksu Region,4/17/22 0:00,严重污染,heavily polluted,383,340,132,494,5,12,0.52,79,4/18/22 3:30
+"1,010,063",阿克苏地区,Aksu Region,4/18/22 0:00,中度污染,Moderately polluted,172,337,77,286,6,19,0.59,67,4/19/22 3:31
+"1,010,396",阿克苏地区,Aksu Region,4/19/22 0:00,轻度污染,light pollution,147,328,74,244,6,29,0.73,62,4/20/22 3:31
+"1,010,730",阿克苏地区,Aksu Region,4/20/22 0:00,轻度污染,light pollution,136,320,68,221,6,36,0.93,58,4/21/22 3:31
+"1,011,064",阿克苏地区,Aksu Region,4/21/22 0:00,轻度污染,light pollution,115,312,54,180,6,30,0.99,61,4/22/22 3:30
