@@ -1,5 +1,3 @@
-export EXABEL_DATA_API_SERVER=data.api-test.exabel.com
-
 # Upload timeseries for Company entities using known_time in file. Will create signals automatically
 # Example data from normed_iss_week_report.csv
 # In this example we have used factset id's to identify companies.
